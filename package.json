@@ -1,0 +1,8 @@
+{
+  "name": "@speedtracker/mongodb",
+  "version": "0.2.0",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.1.10"
+  }
+}
